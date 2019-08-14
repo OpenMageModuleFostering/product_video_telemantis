@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Product_Video_Telemantis",
+    "type": "magento-module",
+    "license": "GPL",
+    "homepage": "",
+    "description": "Product Video Display",
+    "authors": [
+    {
+        "name": "saurabh chandela",
+        "email": "saurabh.chandela82@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
